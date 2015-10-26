@@ -1,0 +1,7 @@
+target 'TicText' do
+  pod 'Parse'
+  pod 'ParseFacebookUtils'
+  pod 'KCKeyboardImagePicker'
+  pod 'KCExplodeTabBar'
+end
+
